@@ -1,5 +1,6 @@
+<!-- Lien : https://readme-typing-svg.demolab.com -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=1000&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Bonjour%2C+je+m'appelle+Fabien+OLIVIER;je+suis+concepteur%2Fd%C3%A9veloppeur+full+Stack" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=1000&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Bonjour%2C+je+m'appelle+Fabien+OLIVIER;je+suis+concepteur%2Fd%C3%A9veloppeur+full+Stack" alt="Typing SVG" /></a>
 </p> 
 
 <p align="justify">
@@ -15,7 +16,6 @@
 ---
 
 ## 🔧 Technologies & Outils
-
 
 <div>
 <!-- Lien badges : https://github.com/Ileriayo/markdown-badges -->
@@ -69,7 +69,7 @@
 ---
 
 ## 🚀 Projects
-
+En cours de création
 
 ---
 
