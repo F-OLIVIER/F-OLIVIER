@@ -7,11 +7,11 @@
   Actuellement en formation depuis un an et demi pour une réorientation dans le développement informatique, je suis passionné par les défis technologiques que cela représente et déterminé à acquérir des compétences approfondies pour contribuer efficacement à des projets innovants.
 </p>
 
-<!-- <p align="right">
+<p align="right">
   <a href="https://github.com/F-OLIVIER">
     <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=F-OLIVIER">
   </a>
-</p> -->
+</p>
 
 ---
 
@@ -20,7 +20,7 @@
 <div>
 <!-- Lien badges : https://github.com/Ileriayo/markdown-badges -->
     <!-- Programming Languages -->
-    • Backend :
+    • Backend : 
     <img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white" alt="Go" /> 
     <img src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white" alt="Rust" />
     <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" />
