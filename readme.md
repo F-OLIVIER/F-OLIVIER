@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=1000&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Bonjour%2C+je+m'appelle+Fabien+OLIVIER;je+suis+concepteur%2Fd%C3%A9veloppeur+full+Stack" alt="Typing SVG" /></a>
 </p> 
 
-<p align="center">
+<p align="justify">
   Actuellement en formation depuis un an et demi pour une réorientation dans le développement informatique, je suis passionné par les défis technologiques que cela représente et déterminé à acquérir des compétences approfondies pour contribuer efficacement à des projets innovants.
 </p>
 
@@ -46,9 +46,7 @@
     • Base de données / Gestion de données : 
     <img src="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite" />
     <img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white" alt="GraphQL" />
-    <!-- <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" /> -->
     </br>
-    <!-- Outils autres -->
     • Autres : 
     <img src="https://img.shields.io/badge/-Microsoft%20Word-2B579A?logo=microsoftword&logoColor=white" alt="Word" />
     <img src="https://img.shields.io/badge/-Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=white" alt="Excel" />
@@ -68,10 +66,10 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F-OLIVIER&layout=compact&theme=radical&hide=c,c%2B%2B" alt="Top Languages" />
 </div>
 
-<!-- ---
+---
 
 ## 🚀 Projects
- -->
+
 
 ---
 
@@ -79,9 +77,3 @@
 
 - 🔗 <a href="http://www.linkedin.com/in/olivier-fabien" target="blank">Linkedin</a>
 - 📧 <a href="https://f-olivier.tech" target="blank">Portfolio</a>
-
----
-
-<div align="center">
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">     <p>J'ai hâte de collaborer à des projets passionnants et utiles !</p>
-</div>
