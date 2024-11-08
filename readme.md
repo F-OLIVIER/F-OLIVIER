@@ -60,16 +60,19 @@
 
 ## 📈 GitHub Stats
 
+<!-- lien : https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=F-OLIVIER&rank_icon=github&theme=radical" alt="K11E3R's GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=F-OLIVIER&theme=radical" alt="GitHub Streak Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F-OLIVIER&layout=compact&theme=radical&hide=c,c%2B%2B" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=F-OLIVIER&show_icons=true&rank_icon=github&theme=tokyonight" alt="GitHub Stats F-OLIVIER" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F-OLIVIER&layout=compact&theme=tokyonight&hide=c,c%2B%2B" alt="Top Languages" />
 </div>
 
----
+<!-- ---
 
-## 🚀 Projects
-En cours de création
+## 🚀 Projets
+<div>
+  
+</div> -->
+
 
 ---
 
