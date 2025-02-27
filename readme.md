@@ -75,6 +75,9 @@
     <a href="https://www.npmjs.com" target="_blank">
         <img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white" alt="NPM" />
     </a>
+    <a href="https://yaml.org/" target="_blank">
+      <img src="https://img.shields.io/badge/-YAML-000000?logo=yaml&logoColor=white" alt="YAML" />
+    </a>
     </br>
     • Base de données / Gestion de données : 
     <a href="https://www.sqlite.org" target="_blank">
