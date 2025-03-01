@@ -120,4 +120,4 @@
 ## 📫 Lien de contact
 
 - 🔗 <a href="http://www.linkedin.com/in/olivier-fabien" target="blank">Linkedin</a>
-- 🪪 <a href="https://f-olivier.tech" target="blank">Portfolio</a>
+- 🪪 <a href="https://f-olivier.fr" target="blank">Portfolio</a>
