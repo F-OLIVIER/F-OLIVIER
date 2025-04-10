@@ -76,10 +76,10 @@
         <img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white" alt="NPM" />
     </a>
     <a href="https://www.ansible.com/" target="_blank">
-      <img src="https://img.shields.io/badge/-Ansible-000000?logo=ansible&logoColor=white" alt="Ansible" />
+      <img src="https://img.shields.io/badge/Ansible-%231A1918?logo=ansible&logoColor=white" alt="Ansible" />
     </a>
     <a href="https://www.terraform.io/" target="_blank">
-      <img src="https://img.shields.io/badge/-Terraform-000000?logo=terraform&logoColor=white" alt="Terraform" />
+      <img src="https://img.shields.io/badge/Terraform-%235835CC?logo=terraform&logoColor=white" alt="Terraform" />
     </a>
     </br>
     • Base de données / Gestion de données : 
